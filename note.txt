@@ -1,0 +1,2 @@
+#package command
+pyinstaller --onefile --nowindowed --icon="batman.ico" batman.py
